@@ -1,0 +1,16 @@
+
+num1 = 2
+num2 = 3
+
+print( num1 + num2 )
+print( num1 - num2 )
+print( num1 * num2 )
+print( num1 / num2 )
+
+
+#Вот так выглядит f строка
+print(f"her name is {name} her age is {age}")
+#нельзя if else true false min max and end использовать  как переменных
+#int используем когда значение цифра
+#float используем когда значение не целое число
+#str используем когда значение текст
