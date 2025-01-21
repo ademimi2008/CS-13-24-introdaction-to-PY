@@ -1,0 +1,11 @@
+Python is a high-level, general-purpose programming language known for its simplicit
+y and readablity.It is widely used in various fields, including web development, data analysis,
+artifical intelligense, automation and more.
+print()
+Examples:
+1 example Hello world
+print("hello world")
+2 example 
+a = 5
+b = 7
+print("summa:", a+b)
