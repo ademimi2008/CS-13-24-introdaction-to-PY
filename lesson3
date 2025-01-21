@@ -1,0 +1,15 @@
+area=2
+r=10
+pi=3.14
+a=2*r*pi
+print(a)
+
+
+# c=6
+# f=c*9/5+32
+# print(f)
+# num1=5
+# num2=4
+# summa=num1+num2
+# print(summa)
+#
